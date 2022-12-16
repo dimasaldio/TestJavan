@@ -2,6 +2,13 @@ ini adalah api services untuk testJavan menggunakan SEQUELIZE
 <br>
 <br>
 
+untuk menjalankan : <br>
+- npm install <br>
+- buat file .env <br>
+- isi .env sesuai env_example<br>
+- npm run dev<br>
+
+
 end point yang digunakan : <br>
 - router.post('/family/add') untuk menambah anggota keluarga<br>
 - router.put('/family/:familyName') untuk mengedit anggota keluara<br>
